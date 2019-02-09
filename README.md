@@ -2,7 +2,7 @@
 Created with CodeSandbox
 
 ### Links and Resources
-* [repo](http://xyz.com)
+* [Repo](https://github.com/mattoattacko/lab-29)
 * [Assignment One](https://codesandbox.io/s/303z96pn4q)
 * [Assignment Two]()
 
