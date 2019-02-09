@@ -4,34 +4,27 @@ Created with CodeSandbox
 ### Links and Resources
 * [Repo](https://github.com/mattoattacko/lab-29)
 * [Assignment One](https://codesandbox.io/s/303z96pn4q)
-* [Assignment Two]()
+* [Assignment Two](https://codesandbox.io/s/ywnz6r44vj)
 
 ### Modules
-#### `modulename.js`
+## Assignment One
+
+#### `app.js`
 ##### Exported Values and Methods
 
-###### `foo(thing) -> string`
-Usage Notes or examples
+###### `Stuff(props) -> <Things />`
+* The "Stuff" function gets its state from its parent.   
+* The state is passed to index.js.
 
-###### `bar(array) -> array`
-Usage Notes or examples
+###### `Things(props) -> <span>`
+* The "Things" function gets its state from its parent.
+* Returns it in div span
 
-### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+#### `index.js`
+##### Exported Values and Methods
 
-#### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
-
-#### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+###### `Class Main -> <App />`
+* App extends "stuff"
 
 #### UML
-Link to an image of the UML for your application and response to events
+* still fixing README.md
