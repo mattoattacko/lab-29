@@ -3,9 +3,8 @@ Created with CodeSandbox
 
 ### Links and Resources
 * [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [Assignment One](https://codesandbox.io/s/303z96pn4q)
+* [Assignment Two]()
 
 ### Modules
 #### `modulename.js`
